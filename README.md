@@ -4,7 +4,7 @@
       <h1>Hi <img src="assets/wave-mono.gif" width="30" alt="wave" /> My name is Wortwurzel</h1>
       <h3>Im a Coder &amp; Designer</h3>
       <ul>
-        <li><picture><source media="(prefers-color-scheme: dark)" srcset="assets/mono/globe-white.svg" /><source media="(prefers-color-scheme: light)" srcset="assets/mono/globe-black.svg" /><img src="assets/mono/globe-black.svg" width="16" height="16" alt="Location" /></picture> based in Hage Village</li>
+        <li>based in Hage Village</li>
       </ul>
       <p>
         <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/mono/cplusplus-white.svg" /><source media="(prefers-color-scheme: light)" srcset="assets/mono/cplusplus-black.svg" /><img src="assets/mono/cplusplus-black.svg" width="36" height="36" alt="C++" title="C++" /></picture></a>
